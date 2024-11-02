@@ -1,9 +1,9 @@
 
-# Software Architecture Book
+# Software Architecture: Patterns and Practices
 
-This repository contains the content for the book **"Software Architecture: Patterns and Practices"**, which explores various architectural styles, patterns, and best practices for designing scalable, maintainable, and robust software systems.
+This repository explores various architectural styles, patterns, and best practices for designing scalable, maintainable, and robust software systems.
 
-The book is structured to provide a comprehensive introduction to software architecture, covering key architectural styles, design principles, and decision-making processes that guide the development of software systems. Each chapter delves into a different architectural style or pattern, explaining its core concepts, advantages, and practical applications.
+It is structured to provide a comprehensive introduction to software architecture, covering key architectural styles, design principles, and decision-making processes that guide the development of software systems. Each chapter delves into a different architectural style or pattern, explaining its core concepts, advantages, and practical applications.
 
 ## Table of Contents
 
