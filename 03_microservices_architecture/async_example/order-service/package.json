@@ -1,13 +1,14 @@
 
 {
-  "name": "service2",
+  "name": "order-service",
   "version": "1.0.0",
   "main": "src/app.ts",
   "scripts": {
     "start": "ts-node src/app.ts"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "amqplib": "^0.8.0"
   },
   "devDependencies": {
     "ts-node": "^10.0.0",
