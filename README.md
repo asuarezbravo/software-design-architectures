@@ -32,7 +32,8 @@ It is structured to provide a comprehensive introduction to software architectur
 2. [Types of Client-Server Architectures](./04_client_server_architecture/04_02_types_of_client_server_architectures.md)
 3. [Benefits and Drawbacks](./04_client_server_architecture/04_03_benefits_and_drawbacks.md)
 4. [Design Patterns and Use Cases](./04_client_server_architecture/04_04_design_patterns_and_use_cases.md)
-5. **TypeScript Example: Client-Server Application** (Coming Soon)
+5. [TypeScript Example: Client-Server Application](./04_client_server_architecture/example/README.md)
+
 
 ### Chapter 5: Event-Driven Architecture
 1. [Introduction to Event-Driven Architecture](./05_event_driven_architecture/05_01_introduction_to_event_driven.md)
